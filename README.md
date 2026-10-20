@@ -1,1 +1,3 @@
-This repository is where I put my own solutions of those tasks on cses-fi as a way to learn the fundamental of competitive programming. When solving a task, not only I do it as required, I also optimize to its best complexity as much as I can comprehend. Anyone find this repository please feel free to read. Give it a star if you like my thought!
+This repository is where I put my own solutions to those tasks on CSES-FI as a way to learn the fundamentals of competitive programming. When solving a task, not only I do it as required, I also optimize to its best complexity as much as I can comprehend. Anyone find this repository please feel free to read. Give it a star if you like my thoughts!
+
+This repository, although I said it is for competitive programming, is written in Python. This is the only language which I use the most, even though it is not as fast as C++. However, I think it is worth trying to get Python to work and optimize it to the very last 'drop' :>
